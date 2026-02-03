@@ -1,7 +1,3 @@
-Nice work — this is **GitHub-ready** already 👍
-Here’s a clean, professional **README.md** you can directly copy–paste into your repo.
-
----
 
 # 🧠 Handwritten Digit & Multi-Digit Recognizer using CNN (MNIST)
 
@@ -179,15 +175,3 @@ BCA Student | Machine Learning Enthusiast
 * TensorFlow & Keras Documentation
 * OpenCV Community
 
----
-
-If you want, I can also:
-
-* ✔️ Create a **GitHub description**
-* ✔️ Add **badges** (accuracy, Python version, license)
-* ✔️ Convert this into a **research-style README**
-* ✔️ Help you deploy it as a **web app**
-
-Just tell me 😄
-# Handwritten-Digit-Recognizer-using-CNN-MNIST-Dataset-
-To train a Convolutional Neural Network (CNN) that can correctly identify handwritten digits (0–9) from grayscale images.
